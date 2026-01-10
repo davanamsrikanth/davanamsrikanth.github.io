@@ -1,5 +1,3 @@
-# davanamsrikanth.github.io
-
 # Davanam Srikanth
 
 Welcome to my personal website.
