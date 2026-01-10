@@ -1,5 +1,3 @@
-# Davanam Srikanth
-
 Welcome to my personal website.
 
 This space is intended to share my writings, perspectives, and informational work related to public administration, governance, and career awareness. The views expressed here are personal and for general informational purposes.
