@@ -1,18 +1,29 @@
-Welcome to my personal website.
 
-This space is intended to share my writings, perspectives, and informational work related to public administration, governance, and career awareness. The views expressed here are personal and for general informational purposes.
+# Davanam Srikanth
+
+Public Administration Writer | GST & Customs | Career & Policy Explainers  
+Hyderabad, India
+
+---
+
+## Featured Publication (2026)
+
+### Careers in GST & Customs: Opportunities, Exams, and Career Pathways  
+**Published in:** *Namaste Telangana – Nipuna Weekly Special*  
+**Date:** February 2026  
+**Format:** Print Newspaper (Weekly Education Supplement)
+
+This article provides an in-depth, reader-focused overview of career opportunities in GST and Customs administration, including SSC and UPSC pathways, eligibility, exam structure, preparation strategy, and long-term professional growth in India’s revenue services.
+
+📄 **PDF (Print Edition):**  
+[Download the published article](./Davanam-Srikanth-Namaste-Telangana-Nipuna-Feb-2026.pdf)
+
+---
 
 ## About Me
 
-I am Davanam Srikanth, based in Hyderabad, India. I am interested in topics related to public administration, governance, and institutional functioning.
+I am Davanam Srikanth, a Hyderabad-based public administration writer focusing on GST, Customs, indirect taxation, and public sector careers. My work aims to provide accurate, practical, and aspirant-oriented information for students and professionals interested in government services and institutional governance.
 
-Over time, I have contributed informational content aimed at helping readers and aspirants understand public sector careers and administrative systems.
+---
 
-This website serves as a consolidated reference for my published writings and professional interests.
-
-## Publications & Writing
-
-- *Understanding Public Administration as a Career: Opportunities, Preparation, and Long-Term Impact*  
-  (Published by Telangana Tribune)
-
-All content shared here is for informational purposes only.
+*More publications and reference articles will be added progressively.*
