@@ -16,8 +16,7 @@ Hyderabad, India
 This article provides an in-depth, reader-focused overview of career opportunities in GST and Customs administration, including SSC and UPSC pathways, eligibility, exam structure, preparation strategy, and long-term professional growth in India’s revenue services.
 
 📄 **PDF (Print Edition):**  
-[Download the published article (PDF)](https://raw.githubusercontent.com/davanamsrikanth/davanamsrikanth.github.io/main/Davanam-Srikanth-Namaste-Telangana-Nipuna-Feb-2026.pdf)
-
+[Download the published article](https://raw.githubusercontent.com/davanamsrikanth/davanamsrikanth.github.io/main/Davanam-Srikanth-Namaste-Telangana-Nipuna-Feb-2026.pdf)
 ---
 
 ## About Me
