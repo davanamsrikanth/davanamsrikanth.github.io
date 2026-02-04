@@ -16,7 +16,8 @@ Date: February 2026
 Format: Print Newspaper (Education Supplement)
 
 🔗 **Official PDF (Print Edition):**  
-https://raw.githubusercontent.com/davanamsrikanth/davanamsrikanth.github.io/main/Davanam-Srikanth-Namaste-Telangana-Nipuna-Feb-2026.pdf
+[Download the published article](https://raw.githubusercontent.com/davanamsrikanth/davanamsrikanth.github.io/main/Davanam-Srikanth-Namaste-Telangana-Nipuna-Feb-2026.pdf)
+
 ---
 
 ## About Me
