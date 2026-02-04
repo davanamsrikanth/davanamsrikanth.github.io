@@ -6,17 +6,17 @@ Hyderabad, India
 
 ---
 
-## Featured Publication (2026)
+## 📄 **Featured Print Publication (2026)**  
 
-### Careers in GST & Customs: Opportunities, Exams, and Career Pathways  
-**Published in:** *Namaste Telangana – Nipuna Weekly Special*  
-**Date:** February 2026  
-**Format:** Print Newspaper (Weekly Education Supplement)
+**Careers in GST & Customs: Opportunities, Exams, and Career Pathways**  
+*Author: Davanam Srikanth*  
 
-This article provides an in-depth, reader-focused overview of career opportunities in GST and Customs administration, including SSC and UPSC pathways, eligibility, exam structure, preparation strategy, and long-term professional growth in India’s revenue services.
+Published in: **Namaste Telangana – Nipuna Weekly Special**  
+Date: February 2026  
+Format: Print Newspaper (Education Supplement)
 
-📄 **PDF (Print Edition):**  
-[Download the published article](https://raw.githubusercontent.com/davanamsrikanth/davanamsrikanth.github.io/main/Davanam-Srikanth-Namaste-Telangana-Nipuna-Feb-2026.pdf)
+🔗 **Official PDF (Print Edition):**  
+https://raw.githubusercontent.com/davanamsrikanth/davanamsrikanth.github.io/main/Davanam-Srikanth-Namaste-Telangana-Nipuna-Feb-2026.pdf
 ---
 
 ## About Me
