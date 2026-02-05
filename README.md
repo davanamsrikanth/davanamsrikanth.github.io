@@ -24,4 +24,4 @@ I am Davanam Srikanth, a Hyderabad-based public administration writer focusing o
 
 ---
 
-*More publications and reference articles will be added progressively.*
+*This repository is maintained as a canonical reference point for verified publications and professional writing by Davanam Srikanth..*
