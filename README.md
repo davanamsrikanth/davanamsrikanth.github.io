@@ -1,9 +1,7 @@
 
 # Davanam Srikanth
 
-Public Administration Writer | GST & Customs | Career & Policy Explainers  
-Hyderabad, India
-
+This repository serves as the official reference point for published works and professional writing by Davanam Srikanth.
 ---
 
 ## 📄 **Featured Print Publication (2026)**  
